@@ -24,7 +24,7 @@ const submit = () => {
             <Head title="로그인" />
 
             <h2 class="text-2xl font-bold text-gray-800 text-center">로그인</h2>
-            <p class="text-sm text-gray-700 text-center mb-6">계정 정보를 입력하세요</p>
+            <p class="text-sm text-gray-500 text-center mb-6">계정 정보를 입력하세요</p>
 
             <!-- 상태 메시지 -->
             <div v-if="status" class="mb-4 text-sm font-medium text-green-400">
