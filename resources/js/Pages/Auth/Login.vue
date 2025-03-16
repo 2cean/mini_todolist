@@ -66,7 +66,7 @@ const submit = () => {
                         type="checkbox"
                         id="remember"
                         v-model="form.remember"
-                        class="h-4 w-4 border border-gray-400 bg-purple-100 rounded focus:ring-indigo-400 checked:bg-indigo-500 checked:border-transparent transition duration-300 ease-in-out"
+                        class="h-4 w-4 border border-gray-400 bg-purple-10 rounded focus:ring-indigo-400 checked:bg-indigo-500 checked:border-transparent transition duration-300 ease-in-out"
                     />
                     <label for="remember" class="ml-2 text-sm text-gray-700"> 로그인 유지하기 </label>
                 </div>
