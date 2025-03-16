@@ -99,7 +99,7 @@ const submit = () => {
             <!-- 로그인 링크 -->
             <p class="mt-4 text-center text-sm text-gray-600">
                 이미 계정이 있으신가요?
-                <Link :href="route('login')" class="text-indigo-500 hover:underline">로그인</Link>
+                <Link :href="route('login')" class="text-indigo-400 hover:text-indigo-300">로그인</Link>
             </p>
         </div>
     </div>
